@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "physicsbook"
+  site-url: "https://jbwhit.github.io/physicsbook"
+  description: "How to think through physics"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/physicsbook"
